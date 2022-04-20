@@ -1,0 +1,42 @@
+2022-04-20 04:51:03.728551 success:False2022-04-20 04:51:03.728562
+历史定位签到模式
+多人签到模式1808260056,1808260057
+当前IP：40.83.150.160,
+
+ 美国Microsoft公司
+
+系统时间：2022-04-20 04:51:09
+UTC时间：2022-04-20 05:51:04
+北京时间：2022-04-20 12:51:03
+北京时间与系统时间误差：7:59:53.611215
+2022-04-20 04:59:09.436375:1808260056签到开始
+cookie文件存在
+cookie文件加载成功
+NAME姚亚奇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-04-20 04:59:35.903543:1808260056签到结束
+2022-04-20 04:59:35.966391:1808260057签到开始
+cookie文件存在
+cookie文件加载成功
+NAME叶磊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME叶磊
+定位 115.841331，27.421831，江西省抚州市
+{"status":0,"result":{"location":{"lng":115.85273941189509,"lat":27.424203485855896},"formatted_address":"江西省抚州市乐安县象山路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"抚州市","city_level":2,"district":"乐安县","town":"","town_code":"","distance":"","direction":"","adcode":"361025","street":"象山路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":226}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E6%8A%9A%E5%B7%9E%E5%B8%82&district=%E4%B9%90%E5%AE%89%E5%8E%BF&street=%E6%8A%9A%E5%B7%9E%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%8A%9A%E5%B7%9E%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E6%8A%9A%E5%B7%9E%E5%B8%82&bdistrict=%E4%B9%90%E5%AE%89%E5%8E%BF&bstreet=%E6%8A%9A%E5%B7%9E%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E6%8A%9A%E5%B7%9E%E5%B8%82&sdistrict=%E4%B9%90%E5%AE%89%E5%8E%BF&lng=115.841328&lat=27.421832&sfby=1
+签到成功
+2022-04-20 04:59:48.560866:1808260057签到结束
+2人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2362878267822768129}
+2022-04-20 04:59:51.211253程序结束
+######################################################################
+
+
+
+
