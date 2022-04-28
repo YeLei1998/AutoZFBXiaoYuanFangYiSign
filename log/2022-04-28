@@ -1,0 +1,47 @@
+2022-04-28 06:29:08.147066 success:False2022-04-28 06:29:08.147078
+历史定位签到模式
+多人签到模式1808260056,1808260057
+当前IP：20.122.74.99,
+
+ 美国DXCTechnology
+
+系统时间：2022-04-28 06:29:08
+UTC时间：2022-04-28 07:29:08
+北京时间：2022-04-28 14:29:08
+北京时间与系统时间误差：7:59:59.056191
+2022-04-28 06:31:09.034664:1808260056签到开始
+cookie文件存在
+cookie文件加载成功
+NAME姚亚奇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME姚亚奇
+定位 120.171525，30.131198，浙江省杭州市
+{"status":0,"result":{"location":{"lng":120.18275607895572,"lat":30.134487507518338},"formatted_address":"浙江省杭州市萧山区三江路","business":"闻堰","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"浙江省","city":"杭州市","city_level":2,"district":"萧山区","town":"","town_code":"","distance":"","direction":"","adcode":"330109","street":"三江路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":179}}
+province=%E6%B5%99%E6%B1%9F%E7%9C%81&city=%E6%9D%AD%E5%B7%9E%E5%B8%82&district=%E8%90%A7%E5%B1%B1%E5%8C%BA&street=%E6%9D%AD%E5%B7%9E%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82&sddlwz=&bprovince=%E6%B5%99%E6%B1%9F%E7%9C%81&bcity=%E6%9D%AD%E5%B7%9E%E5%B8%82&bdistrict=%E8%90%A7%E5%B1%B1%E5%8C%BA&bstreet=%E6%9D%AD%E5%B7%9E%E5%B8%82&sprovince=%E6%B5%99%E6%B1%9F%E7%9C%81&scity=%E6%9D%AD%E5%B7%9E%E5%B8%82&sdistrict=%E8%90%A7%E5%B1%B1%E5%8C%BA&lng=120.17152&lat=30.131201&sfby=1
+签到成功
+2022-04-28 06:31:44.720527:1808260056签到结束
+2022-04-28 06:32:44.865078:1808260057签到开始
+cookie文件存在
+cookie文件加载成功
+NAME叶磊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME叶磊
+定位 115.841395，27.421822，江西省抚州市
+{"status":0,"result":{"location":{"lng":115.85280552383006,"lat":27.424196455236584},"formatted_address":"江西省抚州市乐安县象山路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"抚州市","city_level":2,"district":"乐安县","town":"","town_code":"","distance":"","direction":"","adcode":"361025","street":"象山路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":226}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E6%8A%9A%E5%B7%9E%E5%B8%82&district=%E4%B9%90%E5%AE%89%E5%8E%BF&street=%E6%8A%9A%E5%B7%9E%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%8A%9A%E5%B7%9E%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E6%8A%9A%E5%B7%9E%E5%B8%82&bdistrict=%E4%B9%90%E5%AE%89%E5%8E%BF&bstreet=%E6%8A%9A%E5%B7%9E%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E6%8A%9A%E5%B7%9E%E5%B8%82&sdistrict=%E4%B9%90%E5%AE%89%E5%8E%BF&lng=115.841394&lat=27.421826&sfby=1
+签到成功
+2022-04-28 06:33:08.707696:1808260057签到结束
+2人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2374568628743897088}
+2022-04-28 06:33:11.848029程序结束
+######################################################################
+
+
+
+
